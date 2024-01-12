@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name FPGA-Shield)(type KiCad)(uri D:/KiCad/Projects/FPGA-Shield.pretty)(options "")(descr ""))
+  (lib (name ArduinoUnoR3-SSW)(type KiCad)(uri ${KIPRJMOD}/ArduinoUnoR3-SSW)(options "")(descr ""))
+)
